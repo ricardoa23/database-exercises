@@ -11,3 +11,4 @@ CREATE TABLE albums (
     sales float,
     primary key (id)
 );
+
